@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	color:#333;
+	font-size: 14px;
+}
+#sec-rs{
+	background-color: #555;
+	color: #fff;
+	padding: 10px 0px;
+}
+#sec-rs .fab{
+	color: #fff;
+}
+#sec-rs .fab; hover{
+color: 333;
+}
+#sec-bean{
+	background-image: url(../img/bg-hero.jpg);
+	background-repeat: no repeat;
+	Back-position: center;
+	background-size: cover;
+}
+.circulo{
+	border-radius:100%;
+	width:80;
+	line-heeight: 80%;
+	text-align:center;
+	color:#fff;
+	font size: 20px;
+}
+
